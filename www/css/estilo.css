@@ -1,0 +1,13 @@
+.tabs .indicator{
+    background-color: white;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.titulo{
+    font-size: 1.3rem;
+    margin-left: 5%;
+    margin-right: auto;
+}
